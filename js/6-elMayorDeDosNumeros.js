@@ -6,5 +6,5 @@ if ( num1 > num2 ) {
 } else if (num2 > num1) {
     document.write ("El número "+num2+" es mayor que el número "+num1);
 } else {
-    document.write ("Los nnúmeros ingresados son iguales ("+num2+")");
+    document.write ("Los números ingresados son iguales ("+num2+")");
 }
